@@ -1,24 +1,17 @@
-# Angel&Bee × LINKPRICE — GitHub Pages Proposal
+# Angel&Bee × LINKPRICE — GitHub Pages 마케팅 제안서
 
-13-page sideways-sliding responsive Korean marketing proposal.
+16페이지 가로 슬라이드형 HTML입니다. Angel&Bee 아이보리·골드 브랜드 톤을 반영했습니다.
 
 ## GitHub Pages 배포
+1. ZIP 파일을 해제합니다.
+2. `index.html`과 `assets/`를 GitHub 저장소 최상위에 업로드합니다.
+3. `Settings → Pages → Deploy from a branch`에서 `main` / `(root)`를 선택합니다.
+4. 좌우 화살표, 키보드 방향키 또는 스와이프로 슬라이드를 이동합니다.
 
-1. 새 GitHub 저장소 생성 (예: `angelandbee-proposal`)
-2. 이 폴더 안의 `index.html`과 `assets/` 폴더를 저장소 루트에 업로드
-3. 저장소 **Settings → Pages → Build and deployment → Deploy from a branch** 설정
-4. Branch `main`, folder `/ (root)` 선택 후 저장
-5. 배포 주소 예시: `https://<github-username>.github.io/angelandbee-proposal/`
+## 포함된 제안
+- Hero SKU·Growth SKU, GFA/SA/Meta 퍼널, 자동 보고
+- 제공된 광고 이미지 3종의 **디자인 레퍼런스** 섹션
+- 상시 운영 vs 대형 행사 운영 비교 업무 테이블
+- 행사 D−14부터 D+7까지의 준비·검수·집행·회고 테이블
 
-## 조작
-좌우 화살표, PageUp/PageDown 또는 화면 오른쪽 아래 이전/다음 버튼. 모바일은 좌우 스와이프 가능.
-
-## 제안서 검증·교체 메모
-- Hero SKU: https://brand.naver.com/angelandbee/products/10855527105
-- Growth SKU: https://brand.naver.com/angelandbee/products/13523741813
-- 네이버 상품 상세는 외부에서 내용 검증 제한: SKU 상품명·가격·특징 등 최종 확인 후 편집
-- KPI 실적값은 실제 계정 데이터로 교체해야 함. 현재 문서의 내용은 전략 제안이며 확정 성과가 아님.
-- 3개 포트폴리오 이미지는 사용자 제공 자료. 저작권 및 재배포 가능 여부는 배포 전 확인.
-
-## 참고 공개 자료
-Angel&Bee 공식몰 https://angelandbee.com/
+실제 광고 성과는 계정 실적 확인 후 보완해야 하며, 포트폴리오 레퍼런스의 외부 공개 및 재배포 권한은 별도로 확인하세요.
